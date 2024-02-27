@@ -7,30 +7,30 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 </p>
 
 <p align="center">
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#general-search-engines" target="_blank">General</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#servers" target="_blank">Servers</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#vulnerabilities" target="_blank">Vulnerabilities</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#exploits" target="_blank">Exploits</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#attack-surface" target="_blank">Attack surface</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#code" target="_blank">Code</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#mail-addresses" target="_blank">Mail addresses</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#domains" target="_blank">Domains</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#urls" target="_blank">URLs</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#dns" target="_blank">DNS</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#certificates" target="_blank">Certificates</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#wifi-networks" target="_blank">WiFi networks</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#device-information" target="_blank">Device Info</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#credentials" target="_blank">Credentials</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#leaks" target="_blank">Leaks</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#hidden-services" target="_blank">Hidden Services</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#social-networks" target="_blank">Social Networks</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#phone-numbers" target="_blank">Phone numbers</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#images" target="_blank">Images</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#threat-intelligence" target="_blank">Threat Intelligence</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#web-history" target="_blank">Web History</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#surveillance-cameras" target="_blank">Surveillance cameras</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#crypto" target="_blank">Crypto</a> •
-  <a href="https://github.com/edoardottt/awesome-hacker-search-engines#people" target="_blank">People</a>
+  <a href="#general-search-engines">General</a> •
+  <a href="#servers">Servers</a> •
+  <a href="#vulnerabilities">Vulnerabilities</a> •
+  <a href="#exploits">Exploits</a> •
+  <a href="#attack-surface">Attack surface</a> •
+  <a href="#code">Code</a> •
+  <a href="#mail-addresses">Mail addresses</a> •
+  <a href="#domains">Domains</a> •
+  <a href="#urls">URLs</a> •
+  <a href="#dns">DNS</a> •
+  <a href="#certificates">Certificates</a> •
+  <a href="#wifi-networks">WiFi networks</a> •
+  <a href="#device-information">Device Info</a> •
+  <a href="#credentials">Credentials</a> •
+  <a href="#leaks">Leaks</a> •
+  <a href="#hidden-services">Hidden Services</a> •
+  <a href="#social-networks">Social Networks</a> •
+  <a href="#phone-numbers">Phone numbers</a> •
+  <a href="#images">Images</a> •
+  <a href="#threat-intelligence">Threat Intelligence</a> •
+  <a href="#web-history">Web History</a> •
+  <a href="#surveillance-cameras">Surveillance cameras</a> •
+  <a href="#crypto">Crypto</a> •
+  <a href="#people">People</a>
 </p>
 
 ### General Search Engines
@@ -125,6 +125,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [WADComs](https://wadcoms.github.io/) - Interactive cheat sheet containing a curated list of offensive security tools and their respective commands to be used against Windows/AD environments
 - [LOLAPPS](https://lolapps-project.github.io/) - Compendium of applications that can be used to carry out day-to-day exploitation
 - [Living off the Hardware](https://lothardware.com.tr/) - Resource collection that provides guidance on identifying and utilizing malicious hardware and malicious devices
+- [Living Off the Pipeline](https://boostsecurityio.github.io/lotp/) - How development tools commonly used in CI/CD pipelines can be used to achieve arbitrary code execution
 
 ### Attack Surface
 
@@ -526,6 +527,21 @@ These can be useful for osint and social engineering.
 - [PeekYou](https://www.peekyou.com/) - Fast People Search Made Easy
 - [PeopleFinders](https://www.peoplefinders.com/people-search) - People Search
 - [Pipl](https://pipl.com/) - The #1 source for identity & trust
+- [That's Them](https://thatsthem.com/people-search) - Find Someone's Contact Details By Name
+- [snitch.name](http://snitch.name/) - Social White Pages application with helps you Search for People's Profiles on Social Sites
+- [Webmii](https://webmii.com/) - People search engine
+- [FastPeopleSearch](https://www.fastpeoplesearch.com/) - Find a person by name, phone number, or street address
+- [Sorted By Name](https://sortedbyname.com/) - A curated collection of links to genealogy details mentioned on other websites, or acquired by the webmaster
+- [Radaris](https://radaris.com/) - Find People Fast and Free
+- [Addresses.com](https://www.addresses.com/) - Free People Search and Public Information Search Engine
+- [Advanced Background Checks](https://www.advancedbackgroundchecks.com/) - Free People Search
+- [Yasni](http://www.yasni.com/) - Search phone, email, address for any name. News, pictures & links for any person. Find anyone on the internet with the world's largest free people search
+- [USA Data Search](https://usa-official.com/) - The USA official website provides access to public data that can be searched and viewed by anyone
+- [AnyWho](https://www.anywho.com/) - Finding People, Places, and Businesses
+- [Lullar](https://com.lullar.com/) - Profile Search by Email, First Last Name or Username
+- [Ancestry](https://www.ancestry.com/search/) - The largest for-profit genealogy company in the world, it operates a network of genealogical, historical records, and related genetic genealogy websites
+- [genealogy.com](https://www.genealogy.com/) - Source for family history buffs to find genealogical research originally posted in GenForum and our most popular genealogy articles
+- [US Search](https://www.ussearch.com/) - Access to details about the people in your life. Access public records, contact information, background checks & more
 
 ### Unclassified
 
@@ -541,8 +557,6 @@ These can be useful for osint and social engineering.
 - [DNS.BufferOver.run](https://dns.bufferover.run/)
 - [NetoGraph](https://netograph.io/) - Captures and indexes detailed, low-level snapshots of website behaviour
 - [Hashdd](https://hashdd.com/) - Known Good Cryptographic Hashes
-
-[⇧ Return to the top](#--awesome-hacker-search-engines-)
 
 <!-- markdown-link-check-enable -->
 
